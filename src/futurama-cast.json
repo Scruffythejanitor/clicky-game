@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Phillip J. Fry",
+        "image": "/images/Fry.png",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Taranga Leela",
+        "image": "/images/Leela.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Bender Bending Rodrigez",
+        "image": "/images/Bender.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Amy Wong Kroker",
+        "image": "/images/Amy.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Dr. John Zoidberg",
+        "image": "/images/Zoidberg.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Professor Hubert J. Farnsworth",
+        "image": "/images/professor.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Hermes Conrad",
+        "image": "/images/hermes.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Roberto",
+        "image": "/images/Roberto.png",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Lord Nibbler",
+        "image": "/images/nibbler.png",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Robot Santa",
+        "image": "/images/robot-santa.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Retriever",
+        "image": "/images/zapp.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Yellow Lab",
+        "image": "/images/kif.png",
+        "clicked": false
+    }
+]
