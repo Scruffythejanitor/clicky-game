@@ -1,13 +1,19 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url(//db.onlinewebfonts.com/c/3d20efacfeaf02b55cc8b7b9f1f4d5cd?family=Futurama+Bold+Font);
+@font-face {font-family: "Futurama Bold Font"; src: url("//db.onlinewebfonts.com/t/3d20efacfeaf02b55cc8b7b9f1f4d5cd.eot"); src: url("//db.onlinewebfonts.com/t/3d20efacfeaf02b55cc8b7b9f1f4d5cd.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/3d20efacfeaf02b55cc8b7b9f1f4d5cd.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/3d20efacfeaf02b55cc8b7b9f1f4d5cd.woff") format("woff"), url("//db.onlinewebfonts.com/t/3d20efacfeaf02b55cc8b7b9f1f4d5cd.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/3d20efacfeaf02b55cc8b7b9f1f4d5cd.svg#Futurama Bold Font") format("svg"); }
+.jumbotron{
+  background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/64/40/avWA4r.jpg);
+  background-size: 100%;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1.strong{
+  padding-top: 150px;
+}
+body{
+  background-color: #108769;
+}
+.img-fluid,.card{
+  border: ;
+  border-radius: 20px;
+}
+h1,h2,h3{
+  font-family: "Futurama Bold Font";
 }

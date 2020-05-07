@@ -6,14 +6,14 @@ function CardDisplay(props) {
         <div className="container">
             <div className="img-container row">
                 {props.cast.map(item => (
-                    <div key={item.id} className="col-3 pb-4">
+                    <div key={item.id} className="col-md-3 pb-4">
                         <div className="card shadow ">
                             <div clasName="card-body">
 
                                 <img onClick={() => {
                                     props.onClick(item.id)
                                 }
-                                } className="img-fluid rounded-lg" alt={item.name} src={item.image} />
+                                } className="img-fluid" alt={item.name} src={item.image} />
                             </div>
                         </div>
                     </div>

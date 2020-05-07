@@ -2,73 +2,73 @@
     {
         "id": 1,
         "name": "Phillip J. Fry",
-        "image": "./images/Fry.png",
+        "image": "https://raw.githubusercontent.com/Scruffythejanitor/clicky-game/master/public/images/Fry.png",
         "clicked": false
     },
     {
         "id": 2,
         "name": "Taranga Leela",
-        "image": "./images/Leela.png",
+        "image": "https://raw.githubusercontent.com/Scruffythejanitor/clicky-game/master/public/images/Leela.png",
         "clicked": false
     },
     {
         "id": 3,
         "name": "Bender Bending Rodrigez",
-        "image": "./images/Bender.png",
+        "image": "https://raw.githubusercontent.com/Scruffythejanitor/clicky-game/master/public/images/Bender.png",
         "clicked": false
     },
     {
         "id": 4,
         "name": "Amy Wong Kroker",
-        "image": "./images/Amy.png",
+        "image": "https://raw.githubusercontent.com/Scruffythejanitor/clicky-game/master/public/images/Amy.png",
         "clicked": false
     },
     {
         "id": 5,
         "name": "Dr. John Zoidberg",
-        "image": "./images/Zoidberg.png",
+        "image": "https://raw.githubusercontent.com/Scruffythejanitor/clicky-game/master/public/images/Zoidberg.png",
         "clicked": false
     },
     {
         "id": 6,
         "name": "Professor Hubert J. Farnsworth",
-        "image": "./images/professor.png",
+        "image": "https://raw.githubusercontent.com/Scruffythejanitor/clicky-game/master/public/images/Professor.png",
         "clicked": false
     },
     {
         "id": 7,
         "name": "Hermes Conrad",
-        "image": "./images/hermes.png",
+        "image": "https://raw.githubusercontent.com/Scruffythejanitor/clicky-game/master/public/images/Hermes.png",
         "clicked": false
     },
     {
         "id": 8,
         "name": "Roberto",
-        "image": "./images/Roberto.png",
+        "image": "https://raw.githubusercontent.com/Scruffythejanitor/clicky-game/master/public/images/Roberto.png",
         "clicked": false
     },
     {
         "id": 9,
         "name": "Lord Nibbler",
-        "image": "./images/nibbler.png",
+        "image": "https://raw.githubusercontent.com/Scruffythejanitor/clicky-game/master/public/images/Nibbler.png",
         "clicked": false
     },
     {
         "id": 10,
         "name": "Robot Santa",
-        "image": "./images/robot-santa.png",
+        "image": "https://raw.githubusercontent.com/Scruffythejanitor/clicky-game/master/public/images/Robot-Santa.png",
         "clicked": false
     },
     {
         "id": 11,
-        "name": "Retriever",
-        "image": "./images/zapp.png",
+        "name": "Zapp Branigan",
+        "image": "https://raw.githubusercontent.com/Scruffythejanitor/clicky-game/master/public/images/Zapp.png",
         "clicked": false
     },
     {
         "id": 12,
-        "name": "Yellow Lab",
-        "image": "./images/kif.png",
+        "name": "Kif Kroker",
+        "image": "https://raw.githubusercontent.com/Scruffythejanitor/clicky-game/master/public/images/Kif.png",
         "clicked": false
     }
 ]
